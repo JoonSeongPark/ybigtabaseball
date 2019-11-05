@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33612094-6dee-4a75-a902-63ee5357bfa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/doosan_bears.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/doosan_bears_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/hanhwa_eagles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/hanhwa_eagles_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kia_tigers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kia_tigers_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kiwoom_heroes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kiwoom_heroes_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kt_wiz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/kt_wiz_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/lg_twins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/lg_twins_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/lotte_giants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/lotte_giants_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/nc_dinos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/nc_dinos_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/samsung_lions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/samsung_lions_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/sk_wyverns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Logo_img/sk_wyverns_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/basic_referee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/bbd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/cph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/csw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/jis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/jjs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kbj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kgh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kjh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kjk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kmh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/ksc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/kyc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/lgj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/lgs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/lmh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/lyh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/lyj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/mdg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/msh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/ngn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/ohg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/pgy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/pjc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/pkt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/ssg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/whd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/whs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/ysw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Referee_img/yts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/bbd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/cph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/csw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/hit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/hjw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/baseball_ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/baseball_title copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/blue_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/menu_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/red_circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/referee_title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/team_referee_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/img/top_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/jjy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kbj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kgh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kjh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kjk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kmh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ksc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/kyc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lgj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lgs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lmh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lyh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lyj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/mdg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/msh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/myscripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ngn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ohg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/pgy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/pjc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/pkt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ssg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/whd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/whs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/ysw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/yts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myscripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/myscripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1384499738">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="10" />
+          <entry key="html" value="200" />
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="200" />
+          <entry key="JavaScript" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="4003" />
+          <entry key="html" value="2827" />
+          <entry key="js" value="1947" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="4003" />
+          <entry key="HTML" value="2827" />
+          <entry key="JavaScript" value="1947" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_Treble_Final_js/ybigta_conf/second_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5073">
+              <caret line="267" column="54" selection-start-line="267" selection-start-column="54" selection-end-line="267" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="197" column="10" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_Treble_Final_js/ybigta_conf/second_page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1881">
+              <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3667">
+              <caret line="193" column="5" selection-start-line="193" selection-start-column="5" selection-end-line="193" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-weight: 300</find>
+      <find>team_line_1</find>
+      <find>inner</find>
+      <find>rg</find>
+      <find>innerHidden_rg</find>
+      <find>.hidden_menu</find>
+      <find>.hiddenmenu</find>
+      <find>spark</find>
+      <find>profile_comment</find>
+      <find>kbj</find>
+      <find>ksc</find>
+      <find>kis</find>
+      <find>kjk</find>
+      <find>kjh</find>
+      <find>ngn</find>
+      <find>mdg</find>
+      <find>msh</find>
+      <find>referee</find>
+      <find>#top</find>
+      <find>relative</find>
+      <find>.contat</find>
+      <find>btns</find>
+      <find>fade</find>
+      <find>hidden</find>
+      <find>button</find>
+      <find>work</find>
+      <find>h1</find>
+      <find>h2</find>
+      <find>card</find>
+      <find>card0</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/ohg.html" />
+        <option value="$PROJECT_DIR$/html/pgy.html" />
+        <option value="$PROJECT_DIR$/html/pjc.html" />
+        <option value="$PROJECT_DIR$/html/pkt.html" />
+        <option value="$PROJECT_DIR$/html/whs.html" />
+        <option value="$PROJECT_DIR$/html/ssg.html" />
+        <option value="$PROJECT_DIR$/html/whd.html" />
+        <option value="$PROJECT_DIR$/html/ysw.html" />
+        <option value="$PROJECT_DIR$/html/yts.html" />
+        <option value="$PROJECT_DIR$/html/stylesheet.css" />
+        <option value="$PROJECT_DIR$/html/jjy.html" />
+        <option value="$PROJECT_DIR$/html/hjw.html" />
+        <option value="$PROJECT_DIR$/html/lgj.html" />
+        <option value="$PROJECT_DIR$/stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/bbd.html" />
+        <option value="$PROJECT_DIR$/cph.html" />
+        <option value="$PROJECT_DIR$/csw.html" />
+        <option value="$PROJECT_DIR$/hit.html" />
+        <option value="$PROJECT_DIR$/hjw.html" />
+        <option value="$PROJECT_DIR$/jis.html" />
+        <option value="$PROJECT_DIR$/jjs.html" />
+        <option value="$PROJECT_DIR$/jjy.html" />
+        <option value="$PROJECT_DIR$/kbj.html" />
+        <option value="$PROJECT_DIR$/kgh.html" />
+        <option value="$PROJECT_DIR$/kis.html" />
+        <option value="$PROJECT_DIR$/kjh.html" />
+        <option value="$PROJECT_DIR$/kjk.html" />
+        <option value="$PROJECT_DIR$/kmh.html" />
+        <option value="$PROJECT_DIR$/ksc.html" />
+        <option value="$PROJECT_DIR$/kyc.html" />
+        <option value="$PROJECT_DIR$/lgj.html" />
+        <option value="$PROJECT_DIR$/lgs.html" />
+        <option value="$PROJECT_DIR$/lmh.html" />
+        <option value="$PROJECT_DIR$/lyh.html" />
+        <option value="$PROJECT_DIR$/lyj.html" />
+        <option value="$PROJECT_DIR$/mdg.html" />
+        <option value="$PROJECT_DIR$/msh.html" />
+        <option value="$PROJECT_DIR$/ngn.html" />
+        <option value="$PROJECT_DIR$/ohg.html" />
+        <option value="$PROJECT_DIR$/pgy.html" />
+        <option value="$PROJECT_DIR$/pjc.html" />
+        <option value="$PROJECT_DIR$/pkt.html" />
+        <option value="$PROJECT_DIR$/ssg.html" />
+        <option value="$PROJECT_DIR$/whd.html" />
+        <option value="$PROJECT_DIR$/whs.html" />
+        <option value="$PROJECT_DIR$/ysw.html" />
+        <option value="$PROJECT_DIR$/yts.html" />
+        <option value="$PROJECT_DIR$/myscripts.js" />
+        <option value="$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/stylesheet.css" />
+        <option value="$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="width" value="976" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="YBIGTA_baseball" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YBIGTA_baseball" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YBIGTA_baseball" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/User/Desktop/연세대학교/YBIGTA/Conference/2019-1_그남자의존/YBIGTA_baseball_Web_folder/YBIGTA_baseball/stylesheet.css" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../react-complete-guide" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\연세대학교\YBIGTA\Conference\2019-1_그남자의존\YBIGTA_baseball_Web_folder\YBIGTA_baseball\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33612094-6dee-4a75-a902-63ee5357bfa2" name="Default Changelist" comment="" />
+      <created>1561535635377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561535635377</updated>
+      <workItem from="1561535636622" duration="64054000" />
+      <workItem from="1561753848300" duration="8701000" />
+      <workItem from="1561763851355" duration="2105000" />
+      <workItem from="1561816717596" duration="620000" />
+      <workItem from="1565398579587" duration="267000" />
+      <workItem from="1565409815995" duration="600000" />
+      <workItem from="1565710141502" duration="5621000" />
+      <workItem from="1565725623897" duration="26000" />
+      <workItem from="1566613674773" duration="389000" />
+      <workItem from="1566619622636" duration="798000" />
+      <workItem from="1568185818650" duration="80000" />
+      <workItem from="1568885847843" duration="233000" />
+      <workItem from="1568888163905" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83537000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="0" width="976" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.3336887" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.10115912" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/lmh.html" />
+    <entry file="file://$PROJECT_DIR$/html/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/html/jjy.html" />
+    <entry file="file://$PROJECT_DIR$/html/hjw.html" />
+    <entry file="file://$PROJECT_DIR$/html/lgj.html" />
+    <entry file="file://$PROJECT_DIR$/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bbd.html" />
+    <entry file="file://$PROJECT_DIR$/csw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2930" column="8" selection-start-line="2930" selection-start-column="8" selection-end-line="2930" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2559" column="8" selection-start-line="2559" selection-start-column="8" selection-end-line="2559" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2147" column="8" selection-start-line="2147" selection-start-column="8" selection-end-line="2147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="1871" column="8" selection-start-line="1871" selection-start-column="8" selection-end-line="1871" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="3030" column="8" selection-start-line="3030" selection-start-column="8" selection-end-line="3030" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hjw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="399" column="8" selection-start-line="399" selection-start-column="8" selection-end-line="399" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="1961" column="8" selection-start-line="1961" selection-start-column="8" selection-end-line="1961" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kbj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3060" selection-start-line="3060" selection-end-line="3123" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kgh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="2835" column="18" selection-start-line="2835" selection-start-column="18" selection-end-line="2835" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2277" column="8" selection-start-line="2277" selection-start-column="8" selection-end-line="2277" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kjh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2430" column="8" selection-start-line="2430" selection-start-column="8" selection-end-line="2430" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jjy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1745">
+          <caret line="2041" column="8" selection-start-line="2041" selection-start-column="8" selection-end-line="2041" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kjk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2424" column="8" selection-start-line="2424" selection-start-column="8" selection-end-line="2424" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kyc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2454" column="8" selection-start-line="2454" selection-start-column="8" selection-end-line="2454" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kmh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="1770" column="8" selection-start-line="1770" selection-start-column="8" selection-end-line="1770" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ksc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2323" column="8" selection-start-line="2323" selection-start-column="8" selection-end-line="2323" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_4_class_js_fuck/ybigta_conf/second_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_4_class_js_fuck/ybigta_conf/second_page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_4_class_js_fuck/ybigta_conf/link.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2459" column="8" selection-start-line="2459" selection-start-column="8" selection-end-line="2459" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mdg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2771" column="8" selection-start-line="2771" selection-start-column="8" selection-end-line="2771" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lyj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="3033" column="8" selection-start-line="3033" selection-start-column="8" selection-end-line="3033" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lyh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2137" column="8" selection-start-line="2137" selection-start-column="8" selection-end-line="2137" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lmh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2793" column="8" selection-start-line="2793" selection-start-column="8" selection-end-line="2793" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2812" column="8" selection-start-line="2812" selection-start-column="8" selection-end-line="2812" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lgj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2385" column="8" selection-start-line="2385" selection-start-column="8" selection-end-line="2385" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2714" column="8" selection-start-line="2714" selection-start-column="8" selection-end-line="2714" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pgy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2665" column="8" selection-start-line="2665" selection-start-column="8" selection-end-line="2665" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2207" column="8" selection-start-line="2207" selection-start-column="8" selection-end-line="2207" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="3005" column="8" selection-start-line="3005" selection-start-column="8" selection-end-line="3005" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pjc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2819" column="8" selection-start-line="2819" selection-start-column="8" selection-end-line="2819" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ohg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2754" column="8" selection-start-line="2754" selection-start-column="8" selection-end-line="2754" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2710" column="8" selection-start-line="2710" selection-start-column="8" selection-end-line="2710" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2848" column="8" selection-start-line="2848" selection-start-column="8" selection-end-line="2848" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ysw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="1909" column="8" selection-start-line="1909" selection-start-column="8" selection-end-line="1909" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="2708" column="8" selection-start-line="2708" selection-start-column="8" selection-end-line="2708" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_Treble_Final_js/ybigta_conf/link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_Treble_Final_js/ybigta_conf/second_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5073">
+          <caret line="267" column="54" selection-start-line="267" selection-start-column="54" selection-end-line="267" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/ybigta_conf_Treble_Final_js/ybigta_conf/second_page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="99" column="41" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../DesignTeam/Designteam/Designteam/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3667">
+          <caret line="193" column="5" selection-start-line="193" selection-start-column="5" selection-end-line="193" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="197" column="10" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
