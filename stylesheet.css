@@ -131,7 +131,7 @@ button:hover {
 
 /*ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ 미디어 쿼리ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ*/
 
-@media (max-width: 575px) {
+
   #top_title img {
     width: 80%;
     display: block;
@@ -276,7 +276,7 @@ button:hover {
     font-weight: 300;
     font-size: 12pt;
     font-family: 'Noto Sans KR', sans-serif;
-    padding: 2% 0 4% 0;
+    padding: 2% 2% 4% 2%;
     border-bottom: 3px solid #1C6FA6;
     display: block;
     margin-left: 10%;
@@ -285,11 +285,11 @@ button:hover {
 
   #team_line_1 {
     float: left;
-    width: 80%;
+    width: 90%;
     height: auto;
     padding-top: 4%;
     display: block;
-    margin: 0 10%;
+    margin: 0 5%;
   }
 
   .team_title {
@@ -319,7 +319,7 @@ button:hover {
   #team_line_2 {
     display: none;
   }
-}
+
 
 
 
@@ -420,11 +420,10 @@ button:hover {
   }
   .profile_comment {
     float: left;
-    width: 100%;
     font-weight: 300;
     font-size: 12pt;
     font-family: 'Noto Sans KR', sans-serif;
-    padding: 10px 0 20px 0;
+    padding: 5% 2%;
     border-bottom: 3px solid #1C6FA6;
   }
   #team_line_1 {
@@ -553,16 +552,15 @@ button:hover {
     height: auto;
     float: left;
     font-weight: 500;
-    font-size: 15pt;
+    font-size: 12pt;
     font-family: 'Noto  Sans KR', sans-serif;
   }
   .profile_comment {
     float: left;
-    width: 100%;
     font-weight: 300;
-    font-size: 13pt;
+    font-size: 10pt;
     font-family: 'Noto Sans KR', sans-serif;
-    padding: 10px 0 20px 0;
+    padding: 5% 2%;
     border-bottom: 3px solid #1C6FA6;
   }
   #team_line_1 {
@@ -695,12 +693,11 @@ button:hover {
     float: left;
     margin: auto 0 auto 4%;
     font-weight: 500;
-    font-size: 13pt;
+    font-size: 12pt;
     font-family: 'Noto  Sans KR', sans-serif;
   }
   .profile_comment {
     float: left;
-    width: 100%;
     font-weight: 300;
     font-size: 16px;
     font-family: 'Noto Sans KR', sans-serif;
@@ -729,7 +726,7 @@ button:hover {
     margin: 7% auto;
   }
   .team_bnt li span {
-    font-size: small;
+    font-size: x-small;
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -808,9 +805,9 @@ button:hover {
   .referee_circle {
     width:33%;
     height:auto;
-    float: left;
-    margin-left: 10px;
-    margin-right: 10px;
+    float: center;
+    margin: auto;
+
     display: block;
   }
   .profile_part {
@@ -840,18 +837,17 @@ button:hover {
     height: auto;
     float: left;
     margin: 0;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     font-weight: 500;
-    font-size: 17pt;
+    font-size: 14pt;
     font-family: 'Noto  Sans KR', sans-serif;
   }
   .profile_comment {
     float: left;
-    width: 100%;
     font-weight: 300;
     font-size: 14pt;
     font-family: 'Noto Sans KR', sans-serif;
-    padding: 10px 0 20px 0;
+    padding: 2%;
     border-bottom: 4px solid #1C6FA6;
   }
   #team_line_1 {
@@ -875,7 +871,7 @@ button:hover {
     margin: 5% auto;
   }
   .team_bnt li span {
-    font-size: medium;
+    font-size: small;
     display: block;
     margin: 0 auto;
     text-align: center;
