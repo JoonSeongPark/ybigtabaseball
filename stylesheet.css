@@ -177,12 +177,12 @@ button:hover {
     padding-bottom: 30px;
   }
   .btns {
-    width:80%;
+    width:95%;
     padding-top: 2%;
   }
   #strike_btn, #ball_btn{
     width: 35%;
-    font-size: 45%;
+    font-size: 80%;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 700;
     text-align: right;
@@ -277,7 +277,7 @@ button:hover {
     font-size: 12pt;
     font-family: 'Noto Sans KR', sans-serif;
     padding: 2% 2% 4% 2%;
-    border-bottom: 3px solid #1C6FA6;
+    border-bottom: 4px solid #1C6FA6;
     display: block;
     margin-left: 10%;
     margin-right: 10%;
@@ -319,9 +319,6 @@ button:hover {
   #team_line_2 {
     display: none;
   }
-
-
-
 
 
 @media (min-width: 576px) {
@@ -375,6 +372,7 @@ button:hover {
     padding-bottom: 30px
   }
   #profile_line {
+    width: 100%;
     height: 340px;
     padding-top: 20px;
     border-top: 4px solid #1C6FA6;
@@ -423,14 +421,19 @@ button:hover {
   }
   .profile_comment {
     float: left;
+    width: 100%;
     font-weight: 300;
     font-size: 12pt;
     font-family: 'Noto Sans KR', sans-serif;
     padding: 5% 2%;
-    border-bottom: 3px solid #1C6FA6;
+    border-bottom: 4px solid #1C6FA6;
+    margin-left: 0;
+    margin-right: 0;
   }
   #team_line_1 {
     float: left;
+    width: 100%;
+    margin: 0;
     height: auto;
     padding-top: 4%;
     display: block;
@@ -519,13 +522,13 @@ button:hover {
   }
   #profile_line {
     height: auto;
-    padding-top: 20px;
+    padding-top: 10px;
     border-top: 3px solid #1C6FA6;
   }
   #profile_title {
     width: 100%;
     padding-left: 20px;
-    padding-bottom: 25px;
+    padding-bottom: 17px;
   }
   .referee_circle {
     width:40%;
@@ -566,7 +569,7 @@ button:hover {
     font-weight: 300;
     font-size: 10pt;
     font-family: 'Noto Sans KR', sans-serif;
-    padding: 5% 2%;
+    padding: 3% 2%;
     border-bottom: 3px solid #1C6FA6;
   }
   #team_line_1 {
@@ -590,9 +593,9 @@ button:hover {
     width: 20%;
   }
   .team_bnt li img{
-    width: 86%;
+    width: 70%;
     display: block;
-    margin: 7% auto;
+    margin: auto;
   }
   .team_bnt li span {
     font-size: medium;
@@ -732,7 +735,7 @@ button:hover {
     margin: 7% auto;
   }
   .team_bnt li span {
-    font-size: x-small;
+    font-size: small;
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -811,18 +814,14 @@ button:hover {
   .referee_circle {
     width:33%;
     height:auto;
-    float: center;
     margin: auto;
-
     display: block;
   }
   .profile_part {
-    width: 60%;
+    width: 50%;
     height: auto;
-    float: left;
-    vertical-align: middle;
     display: block;
-    margin-left: 15px;
+    margin-left: 45px;
     margin-top: auto;
     margin-bottom: auto;
     position: relative;
