@@ -22,8 +22,10 @@ onload = function() {
     }
   }
 
-  var button = document.getElementById("spark");
-  button.addEventListener("click", toggleClass);
+  var buttonMain = document.getElementById("spark");
+  var buttonTab = document.getElementById("close");
+  buttonMain.addEventListener("click", toggleClass);
+  buttonTab.addEventListener("click", toggleClass);
 
   // var button2 = document.getElementById('close');
   // button2.addEventListener('click', toggleClass);

@@ -36,9 +36,11 @@ body {
   font-weight: 300;
 }
 .innerHidden_title{
+  width: auto;
   margin-top: 20%;
   margin-bottom: 3%;
-
+  float:right;
+  padding: 0 5% 10% 30%;
 }
 #innerHidden_lf ul li a{
   color: black;
