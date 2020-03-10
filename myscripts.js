@@ -9,7 +9,7 @@ onload = function() {
     // var hiddenMenu = document.querySelector(".hiddenMenu");
 
     if (fade) {
-      body_con.appendChild(darkFade)
+      body_con.appendChild(darkFade);
     } else {
       darkFade.remove();
     }
@@ -70,12 +70,7 @@ onload = function() {
 
   var str = "<ul>";
   refereeLf.forEach(element => {
-    str +=
-      "<li><a href=" +
-      element.html +
-      '><img src="./img/baseball_ball.png" width="18%" height="18%">' +
-      element.name +
-      "</a></li>";
+    str += `<li><a href=${element.html}><img src="./img/baseball_ball.png" width="18%" height="18%">${element.name}</a></li>`;
   });
   str += "</ul>";
   document.getElementById("innerHidden_lf").innerHTML = str;
@@ -83,11 +78,7 @@ onload = function() {
   var str = "<ul>";
   refereeRg.forEach(element => {
     str +=
-      "<li><a href=" +
-      element.html +
-      '><img src="./img/baseball_ball.png" width="23%" height="23%">' +
-      element.name +
-      "</a></li>";
+      `<li><a href=${element.html}><img src="./img/baseball_ball.png" width="23%" height="23%">${element.name}</a></li>`;
   });
   str += "</ul>";
   document.getElementById("innerHidden_rg").innerHTML = str;
